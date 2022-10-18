@@ -1,6 +1,5 @@
 import { Text, View, TouchableHighlight } from "react-native";
 import { styles } from './styles';
-
 import Task from "../../interfaces/Task";
 
 interface CounterContainerProps {
